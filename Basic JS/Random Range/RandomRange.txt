@@ -1,0 +1,3 @@
+Whenever you take out the + myMin at the end,
+whenever you call that function it sometimes goes 
+below the minumum range of 1 and returns 0 instead.

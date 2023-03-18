@@ -1,0 +1,9 @@
+These are the solutions to FreeCodeCamp's Javascript DSA Basic Algorithms module.
+
+I have explanations of the code in the files themselves.
+
+They are ordered numerically from the first challenges to the last challanges in FCC's JS DSA Basic Algorithms module.
+
+I also named the files just like the challenges are named in the module.
+
+<3 Nathan
